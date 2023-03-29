@@ -6,8 +6,8 @@
 <b>Software & Tools:</b> 
 <ul>
 <li><b>Back-End:</b> Python/Django, Node.js, MongoDB, PostgreSQL, MySQL</li>
-<li><b>Front-End:</b> React.js, HTML5, CSS3</li>
-<li><b>Others:</b> Git, Git Flow, AWS, OpenAPI, Postman, Docker, Docker-compose, Nginx, Truffle, Ganache</li>
+<li><b>Front-End:</b> React.js, HTML5, CSS3, JS/JQuery</li>
+<li><b>Others:</b> Git, Git Flow, AWS, OpenAPI, Postman, Docker, Docker-compose, Nginx, Truffle, Ganache, Swagger</li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
