@@ -5,7 +5,7 @@
 <p><b>Programming Languages:</b> JavaScript, Python, Go, C++</p>
 <b>Software & Tools:</b> 
 <ul>
-<li><b>Back-End:</b> Python/Django, Node.js, MongoDB, PostgreSQL, MySQL</li>
+<li><b>Back-End:</b> Python/Django, Node.js (now learning Go), MongoDB, PostgreSQL, MySQL</li>
 <li><b>Front-End:</b> React.js, HTML5, CSS3, JS/JQuery</li>
 <li><b>Others:</b> Git, Git Flow, AWS, OpenAPI, Postman, Docker, Docker-compose, Nginx, Truffle, Ganache, Swagger</li>
 </ul>
