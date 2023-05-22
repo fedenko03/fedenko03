@@ -2,12 +2,12 @@
 
 <h3 align="left">My Technical Skills:</h3>
  
-<p><b>Programming Languages:</b> JavaScript, Python, Go, C++</p>
+<p><b>Programming Languages:</b> JavaScript, Python, C++, Java</p>
 <b>Software & Tools:</b> 
 <ul>
 <li><b>Back-End:</b> Python/Django, Node.js (now learning Go), MongoDB, PostgreSQL, MySQL</li>
 <li><b>Front-End:</b> React.js, HTML5, CSS3, JS/JQuery</li>
-<li><b>Others:</b> Git, Git Flow, AWS, OpenAPI, Postman, Docker, Docker-compose, Nginx, Truffle, Ganache, Swagger</li>
+<li><b>Others:</b> Git, Git Flow, AWS / Microsoft Asure OpenAPI, Postman, Docker, Docker-compose, Nginx, Truffle, Ganache, Swagger</li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
